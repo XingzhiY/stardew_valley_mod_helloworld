@@ -1,0 +1,9 @@
+{
+    "Name": "Hello World Name",
+    "Author": "XingzhiY",
+    "Version": "1.0.0",
+    "Description": "This is an hello world mod.",
+    "UniqueID": "Xingzhi.HelloWorld",
+    "EntryDll": "stardew_valley_mod_helloworld.dll",
+    "MinimumApiVersion": "4.0.0"
+}
